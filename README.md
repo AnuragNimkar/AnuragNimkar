@@ -20,12 +20,12 @@
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
   ![NextJS](https://img.shields.io/badge/-NextJS-333?logo=Next.js)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI)
-- 📶 &nbsp;
+
 
 -  ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-- 🔧 &nbsp;
+
 
 <!---
 AnuragNimkar/AnuragNimkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
